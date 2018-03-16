@@ -1,0 +1,336 @@
+ppd_id,PlanName_check,EEGroupID,EEGroupName,source_EEGroupBasics,notes_EEGroupBasics,initials_EEGroupBasics_check,EEGroupType,EEGroupTypesCovered,EEStateorLocalEmployeesOnly,EEGroupSocSecCovered,EEGroupEmployerType,EEGroupCostSharing,EEGroupCostStructure_check,EEGroupCostStructure,EEGroupInceptionYear,EEGroupClosed,EEGroupYearClosed
+1,Alabama ERS,1,General State Employees,,,,1,,1,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1945,0,0
+1,Alabama ERS,2,State Police,,,,3,,1,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1945,0,0
+1,Alabama ERS,3,General Local Employees,,,,1,,2,Plan covers state and local employees,"Multiple employer, agent plan",2,0,"agent, multiemployer",1945,0,0
+1,Alabama ERS,4,Local Police and Fire,,,,3,,2,Plan covers state and local employees,"Multiple employer, agent plan",2,0,"agent, multiemployer",1945,0,0
+2,Alabama Teachers,0,Teachers,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1939,0,0
+3,Alaska PERS,1,Others,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1961,1,2006
+3,Alaska PERS,2,Peace Officers,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1961,1,2006
+4,Alaska Teachers,0,Teachers,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1955,1,2006
+5,Arizona Public Safety Personnel,0,All Groups,,,,3,,,Plan covers police and/or fire,"Multiple employer, agent plan",2,0,Plan members covered by Social Security,1968,0,0
+6,Arizona SRS,1,Higher Education,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1953,0,0
+6,Arizona SRS,2,Other Education,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1953,0,0
+6,Arizona SRS,3,City Employees,,,,1,,2,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1953,0,0
+6,Arizona SRS,4,County Employees,,,,1,,2,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1953,0,0
+6,Arizona SRS,5,State Employees,,,,1,,1,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1953,0,0
+6,Arizona SRS,6,Political Subdivisions,,,,1,,2,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1953,0,0
+7,Arkansas PERS,1,General State and Local,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1957,0,0
+7,Arkansas PERS,2,General Assembly,,,,4,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1957,0,0
+7,Arkansas PERS,3,Judges,,,,8,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1957,0,0
+8,Arkansas Teachers,0,All Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1937,0,0
+9,California PERF,1,State Miscellaneous - Tier 1,,,,1,,1,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,2,State Miscellaneous - Tier 2,,,,1,,1,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,4,State Industrial - Tier 1,,,,1,,1,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,5,State Industrial - Tier 2,,,,1,,1,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,7,State Safety,,,,3,,1,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,8,State Peace Officers,,,,3,,1,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,9,California Highway Patrol,,,,3,,1,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,10,Schools,,,,2,,,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,11,Public Agency - Risk Pool 1 - Miscellaneous 2%@60,,,,1,,2,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,12,Public Agency - Risk Pool 2 - Miscellaneous 2%@55,,,,1,,2,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,13,Public Agency - Risk Pool 3 - Miscellaneous 2.5%@55,,,,1,,2,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,14,Public Agency - Risk Pool 4 - Miscellaneous 2.7%@55,,,,1,,2,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,15,Public Agency - Risk Pool 5 - Miscellaneous 3.0%@60,,,,1,,2,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,16,Public Agency - Risk Pool 6 - Safety 2.0%@55 ,,,,3,,2,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,17,Public Agency - Risk Pool 7 - Safety 2.0%@50,,,,3,,2,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,18,Public Agency - Risk Pool 8 - Safety 3.0%@55,,,,3,,2,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+9,California PERF,19,Public Agency - Risk Pool 9 - Safety 3.0%@50,,,,3,,2,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1932,0,0
+10,California Teachers,0,Teachers,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1913,0,0
+11,Chicago Teachers,0,Teachers,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1895,0,0
+12,City of Austin ERS,0,All Employees,,,,0,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1941,0,0
+13,Colorado Municipal,0,General Local Employees,,,,1,,2,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1931,0,0
+14,Colorado School,0,School Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1931,0,0
+15,Colorado State,1,State Employees,,,,1,,1,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1931,0,0
+15,Colorado State,2,State Troopers,,,,3,,1,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1931,0,0
+16,Connecticut SERS,1,General Employees-Tier I/Plan B,,,,1,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1939,1,1984
+16,Connecticut SERS,2,General Employees-Tier I/Plan C,,,,1,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1939,1,1984
+16,Connecticut SERS,3,General Employees-Tier II,,,,1,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1985,1,1997
+16,Connecticut SERS,4,General Employees-Tier IIA,,,,1,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1998,1,2011
+16,Connecticut SERS,5,General Employees-Tier III,,,,1,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",2012,0,0
+16,Connecticut SERS,6,Tier III-Hybrid,,,,6,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",2012,0,0
+16,Connecticut SERS,7,Hazardous Duty-Tier I,,,,3,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1939,1,1984
+16,Connecticut SERS,8,Hazardous Duty-Tier II,,,,3,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1985,1,1997
+16,Connecticut SERS,9,Hazardous Duty-Tier IIA,,,,3,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1998,1,2011
+16,Connecticut SERS,10,Hazardous Duty-Tier III,,,,3,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",2012,0,0
+16,Connecticut SERS,11,Tier II-Hybrid,,,,6,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1985,1,1997
+16,Connecticut SERS,12,Tier IIA-Hybrid,,,,6,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1998,1,2011
+17,Connecticut Teachers,0,Teachers,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1939,0,0
+18,Contra Costa County,1,General ,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+18,Contra Costa County,2,Safety ,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+19,DC Police & Fire,1,Police,,,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members not covered by Social Security,1979,0,0
+19,DC Police & Fire,2,Fire,,,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members not covered by Social Security,1979,0,0
+20,DC Teachers,0,Teachers,,,,2,,,Plan covers teachers,Single employer ,1,0,Plan members not covered by Social Security,1979,0,0
+21,Delaware State Employees,0,All Employees,,,,0,,,Plan covers state employees,Single employer cost sharing plan,1,1,Plan members covered by Social Security,1970,0,0
+22,Denver Employees,0,All Employees,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1963,0,0
+23,Denver Schools,0,All Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1945,0,0
+24,Duluth Teachers,0,All Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1910,1,2015
+25,Fairfax County Schools,0,All Employees,,,,3,,,Plan covers teachers,Single employer ,1,0,Plan members covered by Social Security,1973,0,0
+26,Florida RS,1,Regular,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1970,0,0
+26,Florida RS,2,Senior Mgmt.,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1970,0,0
+26,Florida RS,3,Special Risk,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1970,0,0
+26,Florida RS,4,Special Risk Admin,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1970,0,0
+26,Florida RS,5,Elected Officials,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1970,0,0
+27,Georgia ERS,0,State and Local Employees,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1949,0,0
+28,Georgia Teachers,0,Teachers,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1943,0,0
+29,Hawaii ERS,1,Police & Fire,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1926,0,0
+29,Hawaii ERS,2,Teachers,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1926,0,
+29,Hawaii ERS,3,General Employees,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1926,0,0
+30,Houston Firefighters,0,All Employees,,,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members not covered by Social Security,1937,0,0
+31,Idaho PERS,1,General State and Local Employees,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1963,0,0
+31,Idaho PERS,2,Teachers,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1963,0,0
+31,Idaho PERS,3,Police and Fire,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1963,0,0
+33,Illinois SERS,1,General State Government Employees - SocSec,,,,1,,1,Plan covers state and local employees,Single employer ,1,0,"cost-sharing, multiemployer",1944,0,0
+33,Illinois SERS,2,General State Government Employees - Non-SocSec ,,,,1,,1,0,Single employer ,1,0,"cost-sharing, multiemployer",1944,0,0
+33,Illinois SERS,3,State Police and Firefighters - SocSec ,,,,3,,1,Plan covers state and local employees,Single employer ,1,0,"cost-sharing, multiemployer",1944,0,0
+33,Illinois SERS,4,State Police and Firefighters - Non-SocSec ,,,,3,,1,0,Single employer ,1,0,"cost-sharing, multiemployer",1944,0,0
+34,Illinois Teachers,0,Teachers,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1939,0,0
+35,Illinois Universities,1,General Employees - Traditional Plan,,,,6,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1941,0,0
+35,Illinois Universities,2,Police and Fire - Traditional Plan,,,,3,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1941,0,0
+35,Illinois Universities,3,General Employees - Portable Plan,,,,6,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1941,0,0
+35,Illinois Universities,4,Police and Fire - Portable Plan,,,,3,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1941,0,0
+36,Indiana PERF,1,State General Employees,,,,1,,1,Plan covers state and local employees,"Multiple employer, agent plan",2,0,"agent, multiemployer",1945,0,0
+36,Indiana PERF,2,Local General Employees,,,,1,,2,Plan covers state and local employees,"Multiple employer, agent plan",2,0,"agent, multiemployer",1945,0,0
+37,Indiana Teachers,0,Teachers,,,,,,,,,,,,,,
+38,Iowa PERS,1,Regular Employees - State,,,,1,,1,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1953,0,0
+38,Iowa PERS,2,Regular Employees - School,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1953,0,0
+38,Iowa PERS,3,Regular Employees - Other,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1953,0,0
+38,Iowa PERS,4,Sheriffs and Deputies,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1953,0,0
+38,Iowa PERS,5,Protection Occupations,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1953,0,0
+39,Kansas PERS,1,State General Employees,,,,1,,1,Plan covers state and local employees,"Multiemployer, cost sharing plan",3,1,"agent, multiemployer",1962,0,0
+39,Kansas PERS,2,Local General Employees,,,,1,,2,Plan covers state and local employees,"Multiemployer, cost sharing plan",3,1,"agent, multiemployer",1962,0,0
+39,Kansas PERS,3,Teachers,,,,2,,,Plan covers state and local employees,"Multiemployer, cost sharing plan",3,1,"agent, multiemployer",1962,0,0
+40,Kentucky County,1,Non-Hazardous,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1958,0,0
+40,Kentucky County,2,Hazardous,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1958,0,0
+41,Kentucky ERS,1,Non-Hazardous,,,,0,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1956,0,0
+41,Kentucky ERS,2,Hazardous,,,,0,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1956,0,0
+42,Kentucky Teachers,1,Non-University,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1940,0,0
+42,Kentucky Teachers,2,University,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1940,0,0
+43,LA County ERS,1,General,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1938,0,0
+43,LA County ERS,2,Safety,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1938,0,0
+44,Louisiana SERS,1,Rank & File - Traditional DB ,,,,1,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1947,0,0
+44,Louisiana SERS,5,Corrections - Secondary ,,,,3,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1947,0,0
+44,Louisiana SERS,11,Hazardous Duty (Act 992),,,,3,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1947,0,0
+45,Louisiana Teachers,1,Regular Teachers,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1936,0,0
+45,Louisiana Teachers,2,Higher Education,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1936,0,0
+45,Louisiana Teachers,3,Lunch Plan A,,,,1,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1936,0,0
+45,Louisiana Teachers,4,Lunch Plan B,,,,1,,,1,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1936,0,0
+47,Maine State and Teacher,1,Teachers,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1942,0,0
+47,Maine State and Teacher,2,State Employees regular Plan,,,,1,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1942,0,0
+47,Maine State and Teacher,3,State Employees 1998 Special Plan,,,,1,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1942,0,0
+48,Maryland PERS,0,All Employees,,Only modeling General ,,0,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1941,0,0
+49,Maryland Teachers,1,Teachers Pension System,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1927,1,1979
+49,Maryland Teachers,2,Teachers Retirement System,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1980,0,
+50,Massachusetts SRS,1,General Employees,,,,1,,,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1911,0,0
+50,Massachusetts SRS,2,Hazardous Duty,,,,3,,,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1911,0,0
+50,Massachusetts SRS,3,State Police,,,,3,,,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1911,0,0
+50,Massachusetts SRS,4,Corrections,,,,3,,,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1911,0,0
+51,Massachusetts Teachers,0,All Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1914,0,0
+52,Michigan Municipal,1,General,,,,1,,,Plan covers local employees,"Multiple employer, agent plan",2,0,Most plan members covered by Social Security (each participating district decides their own SS participation).,1945,0,0
+52,Michigan Municipal,2,Hybrid,,Hybrid DB and DC plan,,1,,,Plan covers local employees,"Multiple employer, agent plan",2,0,Most plan members covered by Social Security (each participating district decides their own SS participation).,1945,0,0
+53,Michigan Public Schools,1,Basic Members-Option 1,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1945,0,0
+53,Michigan Public Schools,2,Basic Members-Option 3,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1945,0,0
+53,Michigan Public Schools,3,MIP Members-Option 1,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1945,0,0
+53,Michigan Public Schools,4,MIP Members-Option 3,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1945,0,0
+53,Michigan Public Schools,5,Pension Plus Plan Members,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1945,0,0
+54,Michigan SERS,1,General state government employees-DB Classified,,,,1,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1943,1,1997
+54,Michigan SERS,2,Correction Officers-DB Classified,,,,1,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1943,1,1997
+54,Michigan SERS,3,Conservation Officers-DB Classified,,,,1,,1,Plan covers state employees,Single employer ,1,0,"cost-sharing, multiemployer",1943,1,1997
+56,Minnesota GERF,1,Basic Plan,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1931,0,0
+56,Minnesota GERF,2,Coordinated Plan,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1931,0,0
+57,Minnesota State Employees,0,State General Employees,,,,1,,1,,,,,,,,
+58,Minnesota Teachers,1,Basic Plan,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1931,0,0
+58,Minnesota Teachers,2,Coordinated Plan,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1931,0,0
+59,Mississippi PERS,1,State General Employees,,,,1,,1,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1952,0,0
+59,Mississippi PERS,2,Local General Employees and Police and Fire,,,,0,"1, 3",2,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1952,0,0
+59,Mississippi PERS,3,Teachers,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1952,0,0
+60,Missouri DOT and Highway Patrol,1,Non-Uniformed,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1955,0,0
+60,Missouri DOT and Highway Patrol,2,Uniformed Patrol,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1955,0,0
+62,Missouri PEERS,0,All Employees,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1965,0,0
+63,Missouri State Employees,0,All (General) Employees,,Only modeling General employees as they account for 94% of active members,,1,,,Plan covers state employees,Single employer ,1,0,Plan members covered by Social Security,1957,0,0
+64,Missouri Teachers,0,All Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1946,0,0
+65,Montana PERS,0,All Employee,,,,0,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+66,Montana Teachers,0,All Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1937,0,0
+67,Nebraska Schools,0,All Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+68,Nevada Police Officer and Firefighter,0,All Employees,,,,3,,,,,,,,,,
+69,Nevada Regular Employees,0,All Employees,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1947,0,0
+70,New Hampshire Retirement System,1,Group I: general,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1967,0,0
+70,New Hampshire Retirement System,2,Group I: teachers,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1967,0,
+70,New Hampshire Retirement System,3,Group II: police,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1967,0,0
+70,New Hampshire Retirement System,4,Group II: fire,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1967,0,0
+71,New Jersey PERS,1,General State Employees,,,,1,,1,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1955,0,0
+71,New Jersey PERS,2,General Local Employees,,,,1,,2,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1955,0,0
+72,New Jersey Police & Fire,1,State Police and Fire,,,,3,,1,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1944,0,0
+72,New Jersey Police & Fire,2,Local Police and Fire,,,,3,,2,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1944,0,0
+73,New Jersey Teachers,0,All Groups,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1955,0,0
+74,New Mexico PERA,1,State General,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,0
+74,New Mexico PERA,2,State Police,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,0
+74,New Mexico PERA,3,Municipal General Plan 2,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,
+74,New Mexico PERA,4,Municipal General Plan 3,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,
+74,New Mexico PERA,5,Municipal Police,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,0
+74,New Mexico PERA,6,Municipal Fire,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,0
+75,New Mexico Educational,0,All Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1937,0,0
+76,New York City ERS,1,General,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1920,0,0
+76,New York City ERS,2,Chapter 96 Plans,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1920,0,
+76,New York City ERS,3,Transit,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1920,0,0
+77,New York City Teachers,1,Basic Plans,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,,,
+77,New York City Teachers,2,Age 55 Plans,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,,,
+78,New York State Teachers,0,All Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1921,0,0
+79,North Carolina Local Government,1,General Employees,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1941,0,0
+79,North Carolina Local Government,2,Law Enforcement,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1941,0,0
+79,North Carolina Local Government,3,Firefighters,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1941,0,0
+80,North Carolina Teachers and State Employees,1,Classroom Teachers,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1945,0,0
+80,North Carolina Teachers and State Employees,2,Other Education,,,,5,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1945,0,0
+80,North Carolina Teachers and State Employees,3,General Employees,,,,1,,1,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1945,0,0
+80,North Carolina Teachers and State Employees,4,Law Enforcement Officers,,,,3,,1,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1945,0,0
+81,North Dakota PERS,1,General Employees,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1977,0,0
+81,North Dakota PERS,2,Judges,,,,7,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1977,0,
+81,North Dakota PERS,3,National Guard,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1977,0,0
+81,North Dakota PERS,4,Law Enforcement,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1977,0,0
+82,North Dakota Teachers,0,All Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1913,0,0
+83,NY State & Local ERS,0,All Employees,,,,0,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1921,0,
+84,New York State Police & Fire,0,All Employees,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1966,0,0
+85,Ohio PERS,1,General State Employees-Traditional Plan,,,,1,,1,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1935,0,0
+85,Ohio PERS,2,General Local Employees-Traditional Plan,,,,1,,2,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1935,0,0
+85,Ohio PERS,3,State and Local Public Safety-Traditional Plan,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1935,0,0
+85,Ohio PERS,4,State and Local Law Enforcement-Traditional Plan,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1935,0,0
+85,Ohio PERS,5,General State Employees-Combined Plan,,,,1,,1,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1935,0,0
+85,Ohio PERS,6,General Local Employees-Combined Plan,,,,1,,2,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1935,0,0
+86,Ohio Police & Fire,1,State and Local Police,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1967,0,0
+86,Ohio Police & Fire,2,State and Local Fire,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1967,0,0
+87,Ohio School Employees,0,All Groups,,,,5,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1937,0,0
+88,Ohio Teachers,1,Traditional Plan,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1919,0,0
+88,Ohio Teachers,2,Combined Plan,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1919,0,0
+89,Oklahoma PERS,1,General Employee,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1964,0,0
+89,Oklahoma PERS,2,Hazardous Duty,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1964,0,0
+90,Oklahoma Teachers,0,All Employees,,Excludes EESIP ,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1943,0,0
+91,Oregon PERS,1,General State and Local Employees,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1946,0,0
+91,Oregon PERS,2,Teachers,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1946,0,0
+91,Oregon PERS,3,State and Local Police Officers and Firefighters,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1946,0,0
+91,Oregon PERS,4,Independent Employers,,,,1,,2,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1946,0,0
+92,Pennsylvania School Employees,0,All Groups,,,,,,,,,,,,,,
+93,Pennsylvania State ERS,1,General State Employees,,,,1,,1,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1923,0,0
+93,Pennsylvania State ERS,2,State Police,,,,3,,1,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1923,0,0
+93,Pennsylvania State ERS,3,Legislators,,,,4,,1,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1923,0,0
+93,Pennsylvania State ERS,4,Judges - Class E-1,,,,6,,1,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1923,0,0
+94,Phoenix ERS,0,All Employees,,,,0,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1953,0,0
+95,Rhode Island ERS,1,General state government employees,,,,1,,1,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1936,0,0
+95,Rhode Island ERS,2,Teachers,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1936,0,0
+97,San Diego County,1,General,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1939,0,0
+97,San Diego County,2,Safety,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1939,0,0
+98,San Francisco City & County,1,General ,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1922,0,0
+98,San Francisco City & County,2,Police and Fire,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1922,0,0
+99,South Carolina Police,0,State and Local Police,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1962,0,0
+100,South Carolina RS,1,General State Employees,,,,1,,1,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1945,0,0
+100,South Carolina RS,2,General Local Employees,,,,1,,2,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1945,0,0
+100,South Carolina RS,3,Teachers,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1945,0,0
+101,South Dakota RS,1,Class A Members,,,,0,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1974,0,0
+101,South Dakota RS,2,Class B Public Safety Members,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1974,0,0
+101,South Dakota RS,3,Class B Judicial Members,,,,7,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1974,0,0
+102,St. Louis School Employees,0,All Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1944,0,0
+103,St. Paul Teachers,0,All Employees,,,,2,,,Plan covers teachers,Single employer ,1,0,Plan members covered by Social Security,1909,0,0
+105,Texas ERS,1,Regular Employees,,,,1,,,Plan covers state and local employees,Single employer ,1,0,"cost-sharing, multiemployer",1947,0,0
+105,Texas ERS,2,Certified Peace Officer/Custodial Officer,,,,3,,,Plan covers state and local employees,Single employer ,1,0,"cost-sharing, multiemployer",1947,0,0
+105,Texas ERS,3,Elected Officials,,,,4,,,Plan covers state and local employees,Single employer ,1,0,"cost-sharing, multiemployer",1947,0,0
+106,Texas LECOS,0,All Employees,,Only modeling Employee Class,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members covered by Social Security,1979,0,0
+108,Texas Teachers,0,Teachers,,,,,,,,,,,,,,
+110,TN State and Teachers,1,State,,,,1,,,Plan covers state employees,Teachers are covered under a cost sharing plan; state employees are covered under a multi-employer agent plan,2,1,Plan members covered by Social Security,1972,0,0
+110,TN State and Teachers,2,Teachers,,,,2,,,Plan covers state employees,Teachers are covered under a cost sharing plan; state employees are covered under a multi-employer agent plan,2,1,Plan members covered by Social Security,1972,0,0
+111,University of California,1,Regular,,,,0,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1961,0,0
+111,University of California,2,"CNA, UPTE, or AFSCME",,,,0,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,2013,0,0
+112,Utah Noncontributory,0,All Employees,,,,0,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1963,0,0
+113,Vermont State Employees,1,Old General (Plan A),,,,1,,,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1944,0,0
+113,Vermont State Employees,2,Police (Plan C),,,,3,,,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1944,0,0
+113,Vermont State Employees,3,Judges (Plan D),,,,7,,,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1944,0,0
+113,Vermont State Employees,4,New General (Plan F),,,,1,,,Plan covers state employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1944,0,0
+114,Vermont Teachers,1,Group A,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,1,1981
+114,Vermont Teachers,2,Group C,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,0
+115,Virginia Retirement System,1,State Employees,,,,1,,1,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1942,0,0
+115,Virginia Retirement System,2,Local General Employees,,,,1,,2,Plan covers state and local employees,"Multiple employer, agent plan",0,0,"agent, multiemployer",1942,0,0
+115,Virginia Retirement System,3,Teachers,,,,2,,,Plan covers state and local employees,"Multiple employer, agent plan",1,0,"cost-sharing, multiemployer",1942,0,0
+115,Virginia Retirement System,4,Local Safety Employees,,,,3,,2,Plan covers state and local employees,"Multiple employer, agent plan",2,0,"agent, multiemployer",1942,0,0
+117,Washington LEOFF Plan 2,0,All Employees,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1977,0,0
+119,Washington PERS 2/3,1,Plan 2,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1977,0,0
+119,Washington PERS 2/3,2,Plan 3,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",2002,0,0
+120,Washington School Employees Plan 2/3,1,Plan 2,,,,0,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,2000,0,0
+120,Washington School Employees Plan 2/3,2,Plan 3,,,,0,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,2000,0,0
+122,Washington Teachers Plan 2/3,0,All Employees,,,,2,,,Plan covers teachers,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1977,0,0
+125,Wisconsin Retirement System,1,General State and Local Employees,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1982,0,0
+125,Wisconsin Retirement System,2,Public School Employees,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1982,0,0
+125,Wisconsin Retirement System,3,Universities,,,,2,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1982,0,0
+125,Wisconsin Retirement System,4,Executive Group and Elected Officials,,,,4,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1982,0,0
+125,Wisconsin Retirement System,5,Protective Occupation-SS,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1982,0,0
+125,Wisconsin Retirement System,6,Protective Occupation-No SS,,,,3,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"agent, multiemployer",1982,0,0
+126,Wyoming Public Employees,0,All Employees,,,,1,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1949,0,0
+127,Arizona State Corrections Officers,0,All Employees,,,,3,,,Plan covers police and/or fire,"Multiple employer, agent plan",2,0,Plan members covered by Social Security,1968,0,0
+128,Connecticut Municipal,1,General- Social Security,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,0
+128,Connecticut Municipal,2,General- No Social Security,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,0
+128,Connecticut Municipal,3,Police and Fire- Social Security,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,0
+128,Connecticut Municipal,4,Police and Fire- No Social Security,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,0
+129,Iowa Municipal Fire and Police,0,All Employees,,,,3,,,Plan covers police and/or fire,"Multiemployer, cost sharing plan",3,1,Plan members covered by Social Security,1992,0,0
+130,Louisiana Municipal Police,1,Hazardous ,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1973,0,0
+130,Louisiana Municipal Police,2,Non-Hazardous,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1973,0,0
+131,Louisiana Schools,0,All Employees,,,,,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1946,0,0
+132,Louisiana State Parochial Employees,1,Plan A,,,,0,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"Plan A members are not covered by Social Security, Plan B members are covered by Social Security",1953,0,0
+132,Louisiana State Parochial Employees,2,Plan B,,,,0,,,Plan covers state and local employees,"Multiple employer, cost sharing plan",2,1,"Plan A members are not covered by Social Security, Plan B members are covered by Social Security",1953,0,0
+133,Minnesota Police and Fire Retirement Fund,0,Local Police and Fire,,,,3,,2,,,,,,,,
+134,Oklahoma Police,0,All Employees,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1981,0,0
+135,Utah Public Safety,1,Public Safety Contributory - Tier I,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1963,1,1989
+135,Utah Public Safety,2,Public Safety Non-Contributory - Tier I,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1990,1,2011
+135,Utah Public Safety,3,Firefighters - Tier I,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1963,1,2011
+135,Utah Public Safety,4,Public Safety and Firefighter -Tier II,,,,3,,,Plan covers police and/or fire,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,2012,0,0
+137,Alameda County ERS,1,General,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,0
+137,Alameda County ERS,2,Safety,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1947,0,0
+138,Kern County ERS,1,General,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+138,Kern County ERS,2,Safety,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+139,Los Angeles ERS,0,All Employees,,,,1,,,Plan covers local employees,Single employer ,1,0,Plan members not covered by Social Security,1937,0,0
+140,Los Angeles Fire and Police,0,All Employees,,,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members covered by Social Security,1901,0,0
+141,Los Angeles Water and Power,0,All Employees,,,,0,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1938,0,0
+142,Orange County ERS,1,Plan G,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+142,Orange County ERS,2,Plan H,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+142,Orange County ERS,3,Plan I,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+142,Orange County ERS,4,Plan J,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+142,Orange County ERS,5,Plan N,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+142,Orange County ERS,6,Plan P,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+142,Orange County ERS,7,Plan A,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+142,Orange County ERS,8,Plan B,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+142,Orange County ERS,9,Plan E,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+142,Orange County ERS,10,Plan F,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+142,Orange County ERS,11,Plan T,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+142,Orange County ERS,12,Plan U,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+142,Orange County ERS,13,Plan V,,,,0,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1945,0,0
+143,Sacramento County ERS,1,General,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1941,0,0
+143,Sacramento County ERS,2,Safety,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1941,0,0
+144,San Diego City ERS,1,General,,,,3,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1927,0,0
+144,San Diego City ERS,2,Police,,,,3,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1927,0,0
+144,San Diego City ERS,3,Fire,,,,3,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1927,0,0
+145,Chicago Municipal Employees,0,All Employees,,,,0,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1921,0,0
+146,Chicago Police,0,All Employees,,,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members covered by Social Security,1921,0,0
+147,Cook County Employees,1,General,,,,1,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1926,0,0
+147,Cook County Employees,2,Police,,,,3,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1926,0,0
+148,Boston Retirement Board,1,General,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1911,0,0
+148,Boston Retirement Board,2,Other Hazardous,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1911,0,0
+148,Boston Retirement Board,3,Police and Fire,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members not covered by Social Security,1911,0,0
+149,New York City Fire,0,All Employees,,,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members covered by Social Security,1941,0,0
+150,New York City Police,0,Employees,,,,0,,,Plan covers police and/or fire,Single employer ,1,0,Plan members covered by Social Security,1940,0,0
+151,Milwaukee City ERS,1,General Employee,,,,1,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1938,0,0
+151,Milwaukee City ERS,2,Fire ,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1938,0,
+151,Milwaukee City ERS,3,Police,,,,3,,,Plan covers local employees,"Multiple employer, cost sharing plan",2,1,Plan members covered by Social Security,1938,0,
+152,Philadelphia Municipal Retirement System,1,Municipal,,"plan '10 opt in is optional, and in 2014 only contains 9 members for the municipal group, therefore is neglegible for now (2014 AV pg 59)",,1,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1915,0,0
+152,Philadelphia Municipal Retirement System,3,Fire (Uniformed),,,,3,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1915,0,0
+153,Dallas Police and Fire,0,All Employees,,,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members covered by Social Security,1916,0,0
+154,Detroit Police and Fire,0,All Employees,,,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members not covered by Social Security,1941,1,2014
+155,Baltimore Fire and Police,0,All Employees,,,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members covered by Social Security,1962,0,0
+156,Seattle ERS,0,All Employees,,,,0,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1929,0,0
+158,Nashville-Davidson ERS,1,General ,,,,1,,,Plan covers local employees,Single employer ,1,0,Plan members not covered by Social Security,0,0,0
+158,Nashville-Davidson ERS,2,Police/Fire,,,,3,,,Plan covers local employees,Single employer ,1,0,Plan members not covered by Social Security,0,0,0
+159,Jacksonville ERS,0,All Employees,,,,1,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,0,0,0
+160,Cincinatti ERS,0,All Employees,,,,1,,,Plan covers local employees,Single employer ,1,0,Plan members not covered by Social Security,1931,0,0
+161,Atlanta ERS,0,All Employees,,,,1,,,Plan covers local employees,Single employer ,1,0,Plan members not covered by Social Security,1927,0,0
+162,Omaha School,1,Classified,,,,5,,,Plan covers teachers,Single employer ,1,0,Plan members covered by Social Security,1951,0,0
+162,Omaha School,2,Certified,,,,2,,,Plan covers teachers,Single employer ,1,0,Plan members covered by Social Security,1951,0,0
+164,Fairfax County ERS,0,All Employees,,,,0,,,Plan covers local employees,Single employer ,1,0,Plan members covered by Social Security,1955,0,0
+168,Miami Fire and Police,1,Police Officers,,,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members not covered by Social Security,1931,0,0
+168,Miami Fire and Police,2,Firefighters,,,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members not covered by Social Security,1931,0,0
+172,Omaha Police and Fire,1,Police,,,,3,,,,,,,,,,
+172,Omaha Police and Fire,2,Fire,,,,3,,,,,,,,,,
+173,Atlanta Police,0,All Employees,,,,3,,,Plan covers police and/or fire,Single employer ,1,0,Plan members not covered by Social Security,1924,0,0

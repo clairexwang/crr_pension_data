@@ -1,0 +1,172 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Public Plans Database ID.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy",
+            "description": "Fiscal year.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "source_ActCosts",
+            "description": "Data source.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "notes_ActCosts",
+            "description": "Notes for Data Entry.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ContributionFY",
+            "description": "Fiscal Year in which calculated actuarial contributions are to be paid.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "NormCostRate_tot",
+            "description": "Total normal cost rate (% of payroll). The normal cost is the present value of benefits actuarially accrued in a given year. It is calculated by apportioning the total present value of an employee's expected benefits in retirement to each year of an emplo",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "NormCostRate_EE",
+            "description": "Member contribution rate (% of payroll).",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "NormCostRate_ER",
+            "description": "Employer normal cost rate (% of payroll). The employer normal cost is equal to the total normal cost minus member contributions.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "ReqContRate_ER",
+            "description": "Employer's projected actuarial required contribution rate (% of payroll). The employer's annual required contribution for funding purposes consists of two separate components: a payment to cover the total normal cost (net member contributions) \u2013 the cost",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "ReqContRate_tot",
+            "description": "Total projected actuarial required contribution rate (% of payroll). The total annual required contribution for funding purposes consists of two separate components: a payment to cover the total normal cost \u2013 the cost of benefits accrued in the current ye",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "NormCostAmount_tot",
+            "description": "Total normal cost amount.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "NormCostAmount_EE",
+            "description": "Member contribution amount.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "NormCostAmount_ER",
+            "description": "Employer normal cost amount.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ReqContAmount_ER",
+            "description": "Employer's projected actuarial required contribution amount.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ReqContAmount_tot",
+            "description": "Total projected actuarial required contribution amount.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "NormCostRate_tot_est",
+            "description": "Estimated total normal cost rate (flag).",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "NormCostRate_EE_est",
+            "description": "Estimated member contribution rate (flag).",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "NormCostRate_ER_est",
+            "description": "Estimated employer normal cost rate (flag).",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ReqContRate_ER_est",
+            "description": "Estimated employer's projected actuarial required contribution rate (flag).",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ProjectedPayroll",
+            "description": "Projected payroll.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "fy"
+    ],
+    "foreign_keys": {
+        "fields": [
+            "EEGroupID",
+            "TierID",
+            "fy",
+            "ContributionFY"
+        ]
+    }
+}

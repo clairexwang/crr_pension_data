@@ -1,0 +1,480 @@
+{
+    "fields": [
+        {
+            "name": "PlanName",
+            "description": "Plan name.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "DataEntryCode",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "source_IncomeStatement",
+            "description": "Data source.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "notes_IncomeStatement",
+            "description": "Notes for Data Entry.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "initials_IncomeStatement_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "FairValueChange_SecuritiesLendin",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_SecuritiesLendingMgmtFee",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "AL",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BE",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "BF",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "BG",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "BH",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "BI",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "BJ",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "BK",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "CAFR_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "AV_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "LastYearOfData_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ppd_id",
+            "description": "Public Plans Database ID.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy",
+            "description": "Fiscal year.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "contrib_EE_regular",
+            "description": "Contributions - employee.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "contrib_ER_regular",
+            "description": "Contributions - employer.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "contrib_ER_state",
+            "description": "Contributions - state.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "contrib_EE_PurchaseService",
+            "description": "Member service purchase.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "contrib_EE_other",
+            "description": "Contributions - other member.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "contrib_ER_other",
+            "description": "Contributions - other employer.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "contrib_other",
+            "description": "Contributions - other.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "contrib_tot",
+            "description": "Contributions - total .",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "FairValueChange_investments",
+            "description": "Net increase[appreciation] or decrease[depreciation] in fair value of investments.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "FairValueChange_RealEstate",
+            "description": "Net increase[appreciation] or decrease[depreciation] of real estate investments.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "income_interest",
+            "description": "Interest Income.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "income_dividends",
+            "description": "Dividends Income.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "income_InterestAndDividends",
+            "description": "Net investments - interest and dividends.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "income_RealEstate",
+            "description": "Real estate income.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "income_PrivateEquity",
+            "description": "Private equity income.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "income_alternatives",
+            "description": "Alternatives income.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "income_international",
+            "description": "International income.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "income_OtherInvestments",
+            "description": "Other investment income.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_RealEstate",
+            "description": "Real estate expense.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_PrivateEquity",
+            "description": "Private equity expense.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_alternatives",
+            "description": "Alternatives expense.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_OtherInvestments",
+            "description": "Other Investment Expense.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_investments",
+            "description": "Net investments - investment expense.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "income_SecuritiesLending",
+            "description": "Securities lending-interest.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "expense_SecuritiesLending",
+            "description": "Securities Lending-total net expenses.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "income_SecuritiesLendingRebate",
+            "description": "Securities Lending-rebates.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "income_OtherAdditions",
+            "description": "Other additions.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "income_net",
+            "description": "Total additions.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "expense_TotBenefits",
+            "description": "Deductions - total benefit payments.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "expense_RetBenefits",
+            "description": "Deductions - retirement benefits.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "expense_DisabilityBenefits",
+            "description": "Deductions - disability benefits.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_DeathBenefits",
+            "description": "Deductions - death benefits.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_DROPBenefits",
+            "description": "Deductions - drop benefits.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_SurvivorBenefits",
+            "description": "Deductions - survivor benefits.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_COLABenefits",
+            "description": "Deductions - cola benefit.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_LumpSumBenefits",
+            "description": "Deductions - lump sum benefits.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_OtherBenefits",
+            "description": "Deductions - other benefits.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_refunds",
+            "description": "Deductions - refunds/withdrawals.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "expense_AdminExpenses",
+            "description": "Deductions - administrative expense.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "expense_Depreciation",
+            "description": "Deductions - depreciation.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_OtherDeductions",
+            "description": "Deductions - other.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "expense_net",
+            "description": "Deductions - total.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "adjustment_MktAssets",
+            "description": "Internal adjustment to market assets.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "MktAssets_net",
+            "description": "Net assets.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "fy"
+    ],
+    "foreign_keys": {
+        "fields": [
+            "EEGroupID",
+            "TierID",
+            "fy",
+            "expense_PrivateEquity"
+        ]
+    }
+}

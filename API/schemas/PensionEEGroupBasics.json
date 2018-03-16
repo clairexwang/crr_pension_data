@@ -1,0 +1,142 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Plan id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanName_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupName",
+            "description": "Employee group name.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "source_EEGroupBasics",
+            "description": "Data source.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "notes_EEGroupBasics",
+            "description": "Notes for Data Entry.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "initials_EEGroupBasics_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupType",
+            "description": "",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupTypesCovered",
+            "description": "Type of employee included in the employee group",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEStateorLocalEmployeesOnly",
+            "description": "Does the employee group include state or local employees exclusively",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupSocSecCovered",
+            "description": "Employee Group Social Security coverage.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupEmployerType",
+            "description": "Employee Group Employer Type.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupCostSharing",
+            "description": "Employee Group Cost Sharing.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupCostStructure_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupCostStructure",
+            "description": "Employee Group Cost Structure.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupInceptionYear",
+            "description": "Year of inception.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupClosed",
+            "description": "Closed plan.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupYearClosed",
+            "description": "Year of plan closing.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "EEGroupID",
+        "ppd_id"
+    ],
+    "foreign_keys": {
+        "fields": [
+            "EEGroupInceptionYear",
+            "EEGroupClosed",
+            "EEGroupYearClosed",
+            "EEGroupSocSecCovered"
+        ]
+    }
+}

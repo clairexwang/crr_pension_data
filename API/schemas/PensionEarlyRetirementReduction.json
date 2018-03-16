@@ -1,0 +1,236 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Plan id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanName",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupName_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierHireDate_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenefitID_ERR",
+            "description": "Benefit ID",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_start",
+            "description": "Start of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_end",
+            "description": "End of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "Notes",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_BenefitFactor",
+            "description": "Benefit multiplier for early retirement",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_ReductionRate",
+            "description": "Annual percentage reduction in retirement benefits for each year preceding the AgeBase, TenureBase, or PointsBase.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "early_ActuarialReduction",
+            "description": "Are benefits actuarially reduced for each year prior to the AgeBase, TenureBase, or PointsBase?",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_ActuarialReductionInterest",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_TotalReduction_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_RetAge",
+            "description": "If plan member's age at retirement is X years or greater\u2026 (EarlyRetBen_BenefitFactor/EarlyRetBen_ReductionRate/EarlyRetBen_ActuarialReduction)",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "early_RetTenure",
+            "description": "If plan member's tenure at retirement is X years or greater\u2026 (EarlyRetBen_BenefitFactor/EarlyRetBen_ReductionRate/EarlyRetBen_ActuarialReduction)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_RetPoints",
+            "description": "If plan member's age plus tenure at retirement is X years or greater\u2026 (EarlyRetBen_BenefitFactor/EarlyRetBen_ReductionRate/EarlyRetBen_ActuarialReduction)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_RetDate",
+            "description": "If plan member retires on or after X... (EarlyRetBen_BenefitFactor/EarlyRetBen_ReductionRate/EarlyRetBen_ActuarialReduction)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_AgeBase",
+            "description": "At retirement, the calculated annual benefit is reduced for each year that plan member's age is below X.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "early_TenureBase",
+            "description": "At retirement, the calculated annual benefit is reduced for each year that plan member's tenure is below X.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_PointsBase",
+            "description": "At retirement, the calculated annual benefit is reduced for each year that the plan member's age plus service is below X.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_NearestAgeBase",
+            "description": "At retirement, is the calculated annual benefit reduced for each year that the plan member's age is below the nearest normal retirement age?",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_SSAgeBase",
+            "description": "At retirement, is the calculated annual benefit reduced for each year that the plan member's age is below the SS full retirement age?",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_ReductionPeriodStart",
+            "description": "For X or more periods before the AgeBase, TenureBase, or PointsBase\u2026 (EarlyRetBen_BenefitFactor/EarlyRetBen_ReductionRate/EarlyRetBen_ActuarialReduction)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_ReductionPeriodEnd",
+            "description": "For X or less periods before the AgeBase, TenureBase, or PointsBase\u2026 (EarlyRetBen_BenefitFactor/EarlyRetBen_ReductionRate/EarlyRetBen_ActuarialReduction)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_StartAge",
+            "description": "For age X or greater\u2026 (EarlyRetBen_BenefitFactor/EarlyRetBen_ReductionRate/EarlyRetBen_ActuarialReduction)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_EndAge",
+            "description": "For age X or less... (EarlyRetBen_BenefitFactor/EarlyRetBen_ReductionRate/EarlyRetBen_ActuarialReduction)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_TenureStart",
+            "description": "For years of service X or greater... (EarlyRetBen_BenefitFactor/EarlyRetBen_ReductionRate/EarlyRetBen_ActuarialReduction)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_TenureEnd",
+            "description": "For years of service X or less... (EarlyRetBen_BenefitFactor/EarlyRetBen_ReductionRate/EarlyRetBen_ActuarialReduction)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_ServiceDateStart",
+            "description": "For years of service earned as of X or later\u2026 (EarlyRetBen_BenefitFactor/EarlyRetBen_ReductionRate/EarlyRetBen_ActuarialReduction)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "early_ServiceDateEnd",
+            "description": "For years of service earned as of X or earlier\u2026 (EarlyRetBen_BenefitFactor/EarlyRetBen_ReductionRate/EarlyRetBen_ActuarialReduction)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "BenefitID_ERR",
+        "fy_start",
+        "fy_end"
+    ]
+}

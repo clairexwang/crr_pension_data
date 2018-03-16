@@ -1,0 +1,318 @@
+{
+    "fields": [
+        {
+            "name": "PlanName",
+            "description": "Plan name",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "DataEntryCode",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "source_FundingAndMethods",
+            "description": "Source",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "notes_FundingAndMethods",
+            "description": "Notes for Data Input",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "initials_FundingAndMethods",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "AssetValMeth",
+            "description": "Asset Valuation Method",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PhaseIn",
+            "description": "List of actual gain/loss values to be included in smoothed asset calculation",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "AssetValMeth_note",
+            "description": "Additional notes for asset valuation method",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActCostMeth",
+            "description": "Actuarial cost method",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActCostMeth_note",
+            "description": "Additional notes for actuarial cost method",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "FundingMeth",
+            "description": "Funding Method",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "FundingMeth_note",
+            "description": "Additional notes for funding method",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ppd_id",
+            "description": "Plan id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy",
+            "description": "Fiscal year",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "scaled_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "MktAssets_Smooth",
+            "description": "Market Assets reported for asset smoothing",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActAssets_Smooth",
+            "description": "Actuarial Assets Reported for Asset Smoothing",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "NetFlows_smooth",
+            "description": "NetFlows Reported for Asset Smoothing",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "AssetValMethCode",
+            "description": "Does the plan use actuarial or market value of assets for funding purposes?",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "SmoothingReset",
+            "description": "If actuarial assets are used, were actuarial assets set equal to market assets this year, removing all past gain/losses?",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "GainlossConcept",
+            "description": "How are market gains and losses defined?",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "GainLossBase_1",
+            "description": "Gain/Loss Base-1",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "GainLossBase_2",
+            "description": "Gain/Loss Base-2",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "GainLoss",
+            "description": "Current Gain/Loss amount: Gain/Loss Base-2 minus Gain/Loss Base-1",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "GainLossPeriod",
+            "description": "Period for current Gain/Loss amount",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PhaseInPercent",
+            "description": "Percent of current gain/loss amount to be phased-in for this year",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PhaseInPeriods",
+            "description": "Total number of gain/loss periods phased in for asset smoothing",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PhaseInType",
+            "description": "Are actual gain/loss values used in smoothing equal to the total gain/losses in each year or a portion of gain/loss",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "GainLossRecognition",
+            "description": "Is the recognized or unrecognized gain/loss phased-in",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "AssetSmoothingBaseline",
+            "description": "Asset smoothing baseline",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ExpectedReturnMethod",
+            "description": "If expected actuarial assets are used for AssetSmoothingBaseline, is expected market growth or expected actuarial growth applied to actuarial assets.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "AddSubtractGainLoss",
+            "description": "Add or subract gain/loss from AssetSmoothingBaseline",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "UpperCorridor",
+            "description": "Upper Corrider for Market vs. Actuarial Assets",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "LowerCorridor",
+            "description": "Lower Corridor for Market vs. Actuarial Assets",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActCostMethCode",
+            "description": "Coded Actuarial cost method",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "FundMethCode_1",
+            "description": "Coded Funding Method 1",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "FundMethCode_2",
+            "description": "Coded Funding Method 2",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PayrollGrowthAssumption",
+            "description": "Assumed Payroll Growth for amortization",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TotAmortPeriod",
+            "description": "Total scheduled amortization period for UAAL",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "RemainingAmortPeriod",
+            "description": "Remaining amortization period for UAAL",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "UAALYearEstablished",
+            "description": "Most recent year total UAAL was established",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "WageInflation",
+            "description": "Wage Inflation",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "fy"
+    ]
+}

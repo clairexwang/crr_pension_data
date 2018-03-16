@@ -1,0 +1,124 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Plan id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanName",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupName_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierHireDate_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenefitID_ERE",
+            "description": "Benefit ID",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_start",
+            "description": "Start of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_end",
+            "description": "End of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "Notes",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EarlyRetElig_RetDate",
+            "description": "If plan member's date of retirement is on or after X... (EarlyRetElig_age/EarlyRetElig_tenure/EarlyRetElig_points)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EarlyRetElig_age",
+            "description": "Plan member's age at retirement must be X years or greater and satisfy (EarlyRetElig_tenure/EarlyRetElig_points) to be eligible for early retirement.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EarlyRetElig_tenure",
+            "description": "Plan member's tenure at retirement must be X years or greater and satisfy (EarlyRetElig_age/EarlyRetElig_points) to be eligible for early retirement.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EarlyRetElig_points",
+            "description": "Plan member's age plus tenure at retirement must be X years or greater and satisfy (EarlyRetElig_age/EarlyRetElig_tenure) to be eligible for early retirement.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EarlyRetElig_YrsfromNormRetElig",
+            "description": "Plan member must be within X years of normal retirement eligibility and satisfy (EarlyRetElig_age/EarlyRetElig_tenure/EarlyRetElig_points) to be eligible for early retirement.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "P",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "BenefitID_ERE",
+        "FY_start",
+        "FY_end"
+    ]
+}

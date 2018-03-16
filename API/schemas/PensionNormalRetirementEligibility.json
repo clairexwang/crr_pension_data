@@ -1,0 +1,124 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Plan id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanName",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupName_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierHireDate_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenefitID_NRE",
+            "description": "Benefit ID",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_start",
+            "description": "Start of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_end",
+            "description": "End of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "Notes",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "NormRetElig_RetDate",
+            "description": "If plan member's date of retirement is on or after X, then ... (NormRetElig_age/NormRetElig_tenure/NormRetElig_points)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "NormRetElig_vesting",
+            "description": "Plan member's tenure must be X years or greater and satisfy (NormRetElig_points/NormRetElig_age) to be eligible for a deferred benefit.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "NormRetElig_age",
+            "description": "Plan member's age at retirement must be X years or greater and satisfy (NormRetElig_tenure/NormRetElig_points) to be eligible for normal retirement.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "NormRetElig_tenure",
+            "description": "Plan member's tenure at retirement must be X years or greater and satisfy (NormRetElig_age/NormRetElig_points) to be eligible for normal retirement.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "NormRetElig_points",
+            "description": "Plan member's age plus tenure at retirement must be X years or greater and satisfy (NormRetElig_age/NormRetElig_tenure) to be eligible for normal retirement.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "NormRetElig_SSAge",
+            "description": "Plan member's age at retirement must equal to or greater than the Social Security Full Retirement Age and satisfy (NormRetElig_tenure/NormRetElig_points) to be eligible for normal retirement.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "BenefitID_NRE",
+        "FY_start",
+        "FY_end"
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Plan id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanName",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupName_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierHireDate_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenefitID_NRB",
+            "description": "Benefit ID",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_start",
+            "description": "Start of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_end",
+            "description": "End of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "Notes",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_BenefitFactor",
+            "description": "Benefit multiplier for normal retirement",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "normal_BenefitAmount",
+            "description": "Benefit dollar amount for normal retirement",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_RetAge",
+            "description": "If plan member's age at retirement is X years or greater\u2026 (NormRetBen_BenefitFactor)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_RetTenure",
+            "description": "If plan member's tenure at retirement is X years or greater\u2026 (NormRetBen_BenefitFactor)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_RetPoints",
+            "description": "If plan member's age plus tenure at retirement is X years or greater\u2026 (NormRetBen_BenefitFactor)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_RetDate",
+            "description": "If plan member's date of retirement is on or after X... (NormRetBen_BenefitFactor)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_ServiceDateStart",
+            "description": "For years of service earned as of X or later... (NormRetBen_BenefitFactor)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_ServiceDateEnd",
+            "description": "For years of service earned as of X or earlier... (NormRetBen_BenefitFactor)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_AgeStart",
+            "description": "For ages as of X or later... (NormRetBen_BenefitFactor)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_AgeEnd",
+            "description": "For ages as of X or earlier... (NormRetBen_BenefitFactor)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_TenureStart",
+            "description": "For years of service X or greater... (NormRetBen_BenefitFactor)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_TenureEnd",
+            "description": "For years of service X or less... (NormRetBen_BenefitFactor)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_SalaryStart",
+            "description": "For salary of X or more... (NormRetBen_BenefitFactor)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "normal_SalaryEnd",
+            "description": "For salary of X or less... (NormRetBen_BenefitFactor)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "Y",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "BenefitID_NRB",
+        "FY_start",
+        "FY_end"
+    ]
+}
