@@ -1,0 +1,150 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Public Plans Database ID.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanName",
+            "description": "Plan name.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy",
+            "description": "Fiscal year.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "source_AssetAllocation",
+            "description": "Data source.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "notes_AssetAllocation",
+            "description": "Notes for Data Entry.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "initials_AssetAllocation",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "equities_tot",
+            "description": "Percent of assets invested in equities.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "equities_domestic",
+            "description": "Percent of assets invested in US equities.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "equities_international",
+            "description": "Percent of assets invested in International Equities.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "FixedIncome_tot",
+            "description": "Percent of assets invested in bonds.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "FixedIncome_domestic",
+            "description": "Percent of assets invested in US bonds.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "FixedIncome_international",
+            "description": "Percent of assets invested in foreign Bonds.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "RealEstate",
+            "description": "Percent of assets invested in real estate.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "CashAndShortTerm",
+            "description": "Percent of assets invested in cash & short term.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "alternatives",
+            "description": "Percent of assets invested in alternatives.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "other",
+            "description": "Percent of assets invested in other.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "Total_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "fy"
+    ],
+    "foreign_keys": {
+        "fields": [
+            "EEGroupID",
+            "TierID",
+            "fy"
+        ]
+    }
+}

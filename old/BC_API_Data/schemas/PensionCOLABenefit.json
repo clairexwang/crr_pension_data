@@ -1,0 +1,327 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Plan id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanName",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupName_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierHireDate_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenefitID_COLA",
+            "description": "Benefit ID",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_start",
+            "description": "Start of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_end",
+            "description": "End of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "Notes",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_StartDate",
+            "description": "For COLA payments occuring on or after X\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_EndDate",
+            "description": "For COLA payments occuring on or before X\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_CPIPercentage",
+            "description": "COLA as a percent of CPI",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_CPIRangeStart",
+            "description": "For CPI equal to or greater than X\u2026 (COLA_CPIPercentage)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_CPIRangeEnd",
+            "description": "For CPI equal to or less than X\u2026 (COLA_CPIPercentage)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_FixedRate",
+            "description": "Automatic COLA rate",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_compounded",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_PercentMax",
+            "description": "Maximum COLA rate",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_PercentMin",
+            "description": "Minimum COLA rate",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_DollarMax",
+            "description": "Maximum COLA dollar amount",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_DollarMin",
+            "description": "Minimum COLA dollar amount",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_MaxPensionBase",
+            "description": "Maximum annual benefit to which COLA is applied",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_PensionBaseIndexed",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_PensionBaseStart",
+            "description": "For portion of annual benefit amount equal to or greater than X\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_PensionBaseEnd",
+            "description": "For portion of annual benefit amount equal to or less than X\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_RetAge",
+            "description": "If plan member's age at retirement is X years or greater\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_RetTenure",
+            "description": "If plan member's tenure at retirement is X years or greater\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_RetPoints",
+            "description": "If plan member's age plus tenure at retirement is X or greater\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_RetDate",
+            "description": "If plan member's date of retirement is on or after X\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_AgeStart",
+            "description": "For age X or older\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_AgeEnd",
+            "description": "For age X or younger\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_RetPeriodStart",
+            "description": "For X or more years into retirement\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_RetPeriodEnd",
+            "description": "For X or fewer years into retirement\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_FundedRatioStart",
+            "description": "For year when funded ratio is greater than or equal to X\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_FundedRatioEnd",
+            "description": "For year when funded ratio is less than or equal to X\u2026 (COLA_CPIPercentage/COLA_FixedRate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_MarketReturnStart",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLA_MarketReturnEnd",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLABasis_RetBoard",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLABasis_Legislature",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLABasis_InvestmentReturn",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLABasis_CPI",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLABasis_FundedRatio",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLABasis_AdHoc",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLABasis_automatic",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "COLABasis_NoCOLA",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "BenefitID_COLA",
+        "FY_start",
+        "FY_end"
+    ]
+}

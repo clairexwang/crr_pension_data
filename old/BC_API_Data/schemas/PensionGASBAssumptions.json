@@ -1,0 +1,154 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Public Plans Database ID.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy",
+            "description": "Fiscal year.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "source_GASBAssumptions",
+            "description": "Data source.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "notes_GASBAssumptions",
+            "description": "Notes for Data Entry.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActCostMeth_GASB",
+            "description": "Actuarial Cost Method for GASB reporting. The actuarial cost method is used to apportion the total cost of funding an employee's benefits in retirement to each year of their worklife. The annually apportioned amount is the normal cost.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "AssetValMeth_GASB",
+            "description": "Asset Valuation Method for GASB reporting. . The asset valuation method describes the method used for calculating actuarial asset levels. Often, when calculating actuarial assets, plans use actuarial techniques that smooth out fluctuations in the level of",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "FundingMeth_GASB",
+            "description": "Funding Method for GASB reporting. The funding method describes the method used to amortize the UAAL. The method has two key parameters: 1) the amortization payment type: whether the amortization payments will be level in dollar amount or level as a perce",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "InflationAssumption_GASB",
+            "description": "Inflation Assumption for GASB reporting. The inflation assumption underlies other economic assumptions for the plan, such as the long-term investment return, individual employee salary growth, and the overall payroll growth for the plan. Importantly, for",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturnAssumption_GASB",
+            "description": "Long-term investment return assumption GASB reporting. For public pension plans, the long-term investment return is used to discount actuarial liabilities.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "ActCostMethCode_GASB",
+            "description": "A integeral code for the plan's Actuarial Cost method for GASB reporting purposes.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "AssetValMethCode_GASB",
+            "description": "A integeral code for the plan's Asset Valuation method for GASB reporting purposes. The asset valuation method describes the method used for calculating actuarial asset levels. Often, when calculating actuarial assets, plans use actuarial techniques that",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "AssetSmoothingPeriod_GASB",
+            "description": "Asset smoothing period for GASB reporting.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "FundingMethCode1_GASB",
+            "description": "A integeral code for amortization payment type.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "FundingMethCode2_GASB",
+            "description": "A integeral code for amortization period type.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "UAALAmortPeriod_GASB",
+            "description": "Remaining UAAL amortization period for GASB reporting. The remaining period over which the UAAL will be amortized.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "BlendedDiscountRate",
+            "description": "Blended Discount Rate",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActValDate_GASBAssumptions",
+            "description": "Actuarial Valuation Date for GASB Assumptions.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "fy"
+    ],
+    "foreign_keys": {
+        "fields": [
+            "EEGroupID",
+            "TierID",
+            "fy",
+            "AssetValMethCode_GASB",
+            "AssetSmoothingPeriod_GASB",
+            "FundingMethCode1_GASB",
+            "FundingMethCode2_GASB"
+        ]
+    }
+}

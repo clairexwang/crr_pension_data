@@ -1,0 +1,80 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Public Plans Database ID.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy",
+            "description": "Fiscal year.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "CAFR_CY",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ActRpt_CY",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "CAFR_AV_Conflict",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActRptDate",
+            "description": "Date of Actuarial Valuation Report.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "fye",
+            "description": "Fiscal year end date.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "fy"
+    ],
+    "foreign_keys": {
+        "fields": [
+            "EEGroupID",
+            "TierID",
+            "fy"
+        ]
+    }
+}

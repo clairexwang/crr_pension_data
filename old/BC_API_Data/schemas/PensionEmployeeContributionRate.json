@@ -1,0 +1,166 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Plan id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanName",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupName_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierHireDate_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenefitID_ECR",
+            "description": "Benefit ID",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_start",
+            "description": "Start of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_end",
+            "description": "End of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "Notes",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEContribution_StartDate",
+            "description": "If contribution is made on or after X\u2026 (EEContribution_Rate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEContribution_EndDate",
+            "description": "If contribution is made on or prior to X\u2026 (EEContribution_Rate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEContribution_TenureStart",
+            "description": "For tenure of X or greater\u2026 (EEContribution_Rate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEContribution_TenureEnd",
+            "description": "For tenure of X or less\u2026 (EEContribution_Rate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEContribution_SalaryStart",
+            "description": "For salary of X or greater\u2026 (EEContribution_Rate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEContribution_SalaryEnd",
+            "description": "For salary of X or less... (EEContribution_Rate)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEContribution_Rate",
+            "description": "Employee Contribution Rate",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "EEContribution_PercentReqCont",
+            "description": "Employee contribution defined as a percent of total annual required contribution.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEContribution_PercentNC",
+            "description": "Employee contribution defined as a percent of total normal cost",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEContribution_RefundRate",
+            "description": "Annual interest rate credited to employee contributions.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "EEContribution_LinkedRefund",
+            "description": "If interest credited to employee contributions is linked to variable market rate, what rate is it?",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEContribution_MaxDiff4EEandERCo",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "BenefitID_ECR",
+        "FY_start",
+        "FY_end"
+    ]
+}

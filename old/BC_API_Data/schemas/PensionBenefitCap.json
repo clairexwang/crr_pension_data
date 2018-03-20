@@ -1,0 +1,159 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Plan id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanName",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupName_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierHireDate_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenefitID_BC",
+            "description": "Benefit ID",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_start",
+            "description": "Start of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy_end",
+            "description": "End of applicable fiscal year range",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "Notes",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenCap_RetAge",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenCap_RetTenure",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenCap_RetPoints",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenCap_RetDate",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenCap_StartDate",
+            "description": "For benefit payments occuring on or after X\u2026",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenCap_EndDate",
+            "description": "For benefit payments occuring on or before X\u2026",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenCap_ReplacementRate",
+            "description": "Maximum replacement rate",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "BenCap_Salary",
+            "description": "Maximum pensionable earnings",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenCap_SalaryIndexed",
+            "description": "Is the maximum pensionable earnings level indexed to inflation?",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenCap_benefit",
+            "description": "Maximum annual benefit",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BenCap_BenefitIndexed",
+            "description": "Is the maximum annual benefit indexed to inflation?",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "BenefitID_BC",
+        "FY_start",
+        "FY_end"
+    ]
+}

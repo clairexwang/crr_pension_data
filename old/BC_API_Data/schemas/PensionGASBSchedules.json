@@ -1,0 +1,213 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Public Plans Database ID.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy",
+            "description": "Fiscal year.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "source_GASBSchedules",
+            "description": "Data source.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "notes_GASBSchedules",
+            "description": "Notes for Data Entry.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActAssets_GASB",
+            "description": "Actuarial assets under GASB standards. . Actuarial assets will often differ from market assets in a given year because actuarial assets are calculated using techniques that smooth out fluctuations in the level of assets that arise from investment gains an",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ActLiabilities_GASB",
+            "description": "Actuarial accrued liabilities under GASB standards.. The actuarial accrued liability is equal to the present value of future benefits, discounted using the plan's assumed long term investment return.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ActFundedRatio_GASB",
+            "description": "Funded ratio under GASB standards.. The funded ratio is equal the the actuarial assets divided by the actuarial liability.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "UAAL_GASB",
+            "description": "Unfunded Actuarial Accrued Liability under GASB standards.. The unfunded actuarial accrued liability is equal the the actuarial accrued liability minus actuarial assets.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ActLiabilities_other",
+            "description": "Other liability.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "payroll",
+            "description": "Covered payroll. The total pensionable earnings of plan participants.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "RequiredContribution",
+            "description": "Employer's Annual Required Contribution. This variable reflects the employer's annual required contribution as reported in the required supplementary tables for GASB accounting purposes. The variable for the employer's contribution for funding purposes is",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PercentReqContPaid",
+            "description": "Percent of Employer's contribution paid. Funding commitment \u2013 the degree to which the plan sponsor regularly and fully pays its required contributions to the plan \u2013 is a critical factor in assessing the current and future health of a pension plan and an i",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "ARC",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PercentARCPaid",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "TotalPensionLiability",
+            "description": "Total Pension Liability",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "NetPosition",
+            "description": "Net Position",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "NetPensionLiability",
+            "description": "Net Pension Liability",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ADEC",
+            "description": "Actuarially Determined Employer Contribution (ADEC)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "AEC",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "CoveredPayroll_GASB67",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PercentADEC",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActAssets_est",
+            "description": "Estimated Actuarial Assets. Indicator that actuarial assets are estimated by CRR.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ActLiabilities_est",
+            "description": "Estimated Actuarial Liabilities. Indicator that actuarial liabilities are estimated by CRR.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ActFundedRatio_est",
+            "description": "Estimated Actuarial Funded Ratio. Indicator that actuarial funded ratio are estimated by CRR.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "RequiredContribution_est",
+            "description": "Estimated Employer Annual Required Contribution. Indicator that Employer's Annual Required Contribution are estimated by CRR.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActValDate_GASBSchedules",
+            "description": "Actuarial valuation date for GASB Schedules.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "fy"
+    ],
+    "foreign_keys": {
+        "fields": [
+            "EEGroupID",
+            "TierID",
+            "fy"
+        ]
+    }
+}

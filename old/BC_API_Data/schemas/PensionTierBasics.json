@@ -1,0 +1,121 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Plan id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanName_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Group id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupName_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierName",
+            "description": "",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierDesc",
+            "description": "",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierHireDate",
+            "description": "",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierClosedDate",
+            "description": "",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierFutureAge",
+            "description": "Required Age at future date",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierFutureTenure",
+            "description": "Required Tenure at Future Date",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierFuturePoints",
+            "description": "Required Points at Future Date",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierFutureDateStart",
+            "description": "Future Date Start",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TierFutureDateEnd",
+            "description": "Future Date End",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "notes_TierBasics",
+            "description": "",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "SubTierID",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID"
+    ]
+}

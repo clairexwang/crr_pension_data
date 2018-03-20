@@ -1,0 +1,272 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Public Plans Database ID.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy",
+            "description": "Fiscal year.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "source_membership",
+            "description": "Data source.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "notes_membership",
+            "description": "Notes for Data Entry.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "beneficiaries_DisabilityRetirees",
+            "description": "Total number of disability retirees.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "beneficiaries_DependentSurvivors",
+            "description": "Total number of dependent survivor beneficiaries.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "actives_tot",
+            "description": "Total number of actives.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ActiveSalaries",
+            "description": "Total amount of active salaries (payroll).",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ActiveAge_avg",
+            "description": "Average age of actives.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "ActiveTenure_avg",
+            "description": "Average tenure of actives.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActiveSalary_avg",
+            "description": "Average salary of actives.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "InactiveVestedMembers",
+            "description": "Total number of inactive vested.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "InactiveNonVested",
+            "description": "Total number of inactive non-vested.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "beneficiaries_tot",
+            "description": "Total number of beneficiaries.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "benefits_tot",
+            "description": "Total annual benefit payments in year.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "BeneficiaryAge_avg",
+            "description": "Average age of beneficiaries.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "BeneficiaryBenefit_avg",
+            "description": "Average benefit of beneficiaries.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "beneficiaries_ServiceRetirees",
+            "description": "Total number of service retirees.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "benefits_ServiceRetirees",
+            "description": "Total benefits paid to service retirees .",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ServiceRetireeAge_avg",
+            "description": "Average age of service retirees.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ServiceRetireeBenefit_avg",
+            "description": "Average benefit paid to service retirees .",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ServiceRetAge_avg",
+            "description": "Average age at retirement for service retirees.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ServiceRetTenure_avg",
+            "description": "Average tenure at retirement for service retirees .",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ServiceRetBenefit_avg",
+            "description": "Average annual benefit at retirement for service retirees.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "benefits_DisabilityRetirees",
+            "description": "Total benefits paid to disability retirees.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "beneficiaries_survivors",
+            "description": "Total number of survivor beneficiaries.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "beneficiaries_SpousalSurvivors",
+            "description": "Total number of spousal survivor beneficiaries.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "beneficiaries_other",
+            "description": "Total number of other beneficiaries.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "DROPMembers",
+            "description": "Total DROP members.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "OtherMembers",
+            "description": "Other members.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "TotMembership",
+            "description": "Total number of members.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ActiveSalary_avg_est",
+            "description": "Estimated Average salary of actives (flag).",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "BeneficiaryBenefit_avg_est",
+            "description": "Estimated Average benefit of beneficiaries (flag).",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "fy"
+    ],
+    "foreign_keys": {
+        "fields": [
+            "EEGroupID",
+            "TierID",
+            "fy",
+            "actives_tot",
+            "InactiveNonVested",
+            "beneficiaries_ServiceRetirees",
+            "beneficiaries_DisabilityRetirees",
+            "beneficiaries_SpousalSurvivors",
+            "beneficiaries_DependentSurvivors",
+            "beneficiaries_survivors",
+            "DROPMembers",
+            "OtherMembers",
+            "TotMembership"
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Plan id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy",
+            "description": "Fiscal year",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PVFB_InactiveNonVested",
+            "description": "Present Value of Inactive Non-vested Future Benefits",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PVFB_active",
+            "description": "Present Value of Active Future Benefits",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PVFB_InactiveVested",
+            "description": "Present Value of Inactive Vested Future Benefits",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PVFB_retiree",
+            "description": "Present Value of Retiree Future Benefits",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PVFB_other",
+            "description": "Present Value of Other Future Benefits",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PVFB_tot",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PVFNC_tot",
+            "description": "Total Present Value of Future Normal Costs (PVFNC)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PVFNC_EE",
+            "description": "Present Value of Future Member Contributions",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PVFNC_ER",
+            "description": "Present Value of Future Employer Normal Costs",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PVFS",
+            "description": "Present Value of Future Salaries (PVFS)",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "MktAssets_ActRpt",
+            "description": "Market Assets reported in actuarial valuation",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActAssets_AVA",
+            "description": "Actuarial assets",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActLiabilities_EAN",
+            "description": "Actuarial liabilities under Entry Age Normal",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "ActLiabilities_PUC",
+            "description": "Actuarial liabilities under Projected Unit Credit",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "fy"
+    ]
+}

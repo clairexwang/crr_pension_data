@@ -1,0 +1,326 @@
+{
+    "fields": [
+        {
+            "name": "system_id",
+            "description": "",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ppd_id",
+            "description": "Plan id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ValuationID",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanName",
+            "description": "Plan name.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PlanFullName",
+            "description": "",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "source_PlanBasics",
+            "description": "Data source.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "initials_PlanBasics_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "notes_PlanBasics",
+            "description": "Notes for Data Entry.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "DataStartYear",
+            "description": "",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "DataEndYear",
+            "description": "",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "InPFS",
+            "description": "Plan is in public funds survey",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "FiscalYearType",
+            "description": "",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanInceptionYear",
+            "description": "Year of inception.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanClosed",
+            "description": "Closed plan.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanYearClosed",
+            "description": "Year of plan closing.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "AdministeringGovt",
+            "description": "Administering Government.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "StateAbbrev",
+            "description": "Abbrev. state name.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "StateName",
+            "description": "Full state name.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "GovtName",
+            "description": "Administrating jurisdiction.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "PlanType",
+            "description": "Plan Type.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "EmployeeTypeCovered",
+            "description": "Type of employees covered by the plan",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "SocSecCovered",
+            "description": "Social Security Coverage.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "SocSecCovered_verbatim",
+            "description": "Social Security Coverage",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "CostStructure",
+            "description": "Cost Structure.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EmployerType",
+            "description": "Employer Type.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "CostSharing",
+            "description": "Cost Sharing.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "CostStructure_check",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "StateEmployers",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "LocalEmployers",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "SchoolEmployers",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "CoversStateEmployees",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "CoversLocalEmployees",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "CoversTeachers",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "StateGenEE",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "LocalGenEE",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "StatePolice",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "LocalPolice",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "StateFire",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "LocalFire",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "Teacher",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "SchoolEEs",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "JudgesAttorneys",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "ElectedOfficials",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "BenefitsWebsite",
+            "description": "Website for benefit descriptions",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id"
+    ],
+    "foreign_keys": {
+        "fields": [
+            "PlanInceptionYear",
+            "PlanClosed",
+            "PlanYearClosed",
+            "AdministeringGovt",
+            "PlanType",
+            "StateAbbrev",
+            "system_id"
+        ]
+    }
+}

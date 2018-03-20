@@ -1,0 +1,221 @@
+{
+    "fields": [
+        {
+            "name": "ppd_id",
+            "description": "Public Plans Database ID.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "PlanName",
+            "description": "Plan name.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "EEGroupID",
+            "description": "Employee group id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "TierID",
+            "description": "Tier id.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "fy",
+            "description": "Fiscal year.",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "source_InvestmentReturn",
+            "description": "Data source.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "notes_InvestmentReturn",
+            "description": "Notes for Data Entry.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "initials_InvestmentReturn",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_1yr",
+            "description": "1-yr investment return.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_2yr",
+            "description": "2-yr investment return.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_3yr",
+            "description": "3-yr investment return.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_4yr",
+            "description": "4-yr investment return.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_5yr",
+            "description": "5-yr investment return.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_7yr",
+            "description": "7-yr investment return.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_8yr",
+            "description": "8-yr investment return.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_10yr",
+            "description": "10-yr investment return.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_12yr",
+            "description": "12-yr investment return.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_15yr",
+            "description": "15-yr investment return.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_20yr",
+            "description": "20-yr investment return.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_25yr",
+            "description": "25-yr investment return.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_30yr",
+            "description": "30-yr investment return.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_LongTerm",
+            "description": "Long-term investment return.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_LongTermStartYe",
+            "description": "Not found in API.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "GrossReturns",
+            "description": "Reported Gross/Net investment Returns.",
+            "format": "default",
+            "type": "string",
+            "title": ""
+        },
+        {
+            "name": "GeoReturn_est",
+            "description": "Geometric return since 2001.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "GeoGrowth_est",
+            "description": "Geometric growth since 2001.",
+            "format": "default",
+            "type": "number",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_1yr_est",
+            "description": "Estimated 1yr investment return",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_5yr_est",
+            "description": "Estimated 5yr investment return",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        },
+        {
+            "name": "InvestmentReturn_10yr_est",
+            "description": "Estimated 10yr investment return",
+            "format": "default",
+            "type": "integer",
+            "title": ""
+        }
+    ],
+    "primary_key": [
+        "ppd_id",
+        "EEGroupID",
+        "TierID",
+        "fy"
+    ],
+    "foreign_keys": {
+        "fields": [
+            "EEGroupID",
+            "TierID",
+            "fy",
+            "GrossReturns"
+        ]
+    }
+}
